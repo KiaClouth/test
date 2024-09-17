@@ -9,10 +9,9 @@
   "devDependencies": {
   },
   "dependencies": {
-    "@solidjs/router": "latest",
-    "@solidjs/start": "latest",
-    "comlink": "^4.4.1",
-    "solid-js": "latest",
+    "@solidjs/router": "^0.14.1",
+    "@solidjs/start": "^1.0.2",
+    "solid-js": "^1.8.18",
     "vinxi": "latest"
   },
   "engines": {

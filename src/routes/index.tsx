@@ -1,16 +1,7 @@
-import { ParentProps } from "solid-js";
 import { worker } from "~/entry-client";
 
-const w = worker
+console.log(worker);
 
-export default function AppMainContet(props: ParentProps) {
-  return (
-    <>
-      <div
-        id="AppMainContet"
-      >
-        AppMainContet
-      </div>
-    </>
-  );
+export default function AppMainContet() {
+  return <></>;
 }
